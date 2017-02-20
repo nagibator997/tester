@@ -15,8 +15,5 @@ public class Human {
   System.out.println(name + " walks");
  }
  
- public String goToTheWork(int hoursAmount) 
- {
-  return name + " earned " + (grnPerHour * hoursAmount) + " grn home";
- }
+
 }
